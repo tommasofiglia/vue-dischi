@@ -1,3 +1,4 @@
-$(document).ready(function() {
-	//Code
+let app = new Vue({
+  // options object
+  el: "#app",
 });
